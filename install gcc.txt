@@ -1,0 +1,19 @@
+!!!!!!
+instllation https://www.msys2.org/
+follow the instructions 
+
+put this commnd after installations
+
+pacman -Syu
+
+pacman -S mingw-w64-ucrt-x86_64-gcc
+
+check 
+gcc --version
+
+after that go to the location (about Msys2)
+copy  the link of directory 
+and pasted in path (variable envirennement)
+
+
+enjoy !!!!!!!!!!!!!!!!!!!!
